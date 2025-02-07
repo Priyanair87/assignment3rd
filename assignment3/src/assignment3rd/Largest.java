@@ -11,9 +11,9 @@ public class Largest {
 		int b= sc.nextInt();
 		if(a>b)
 		
-			System.out.println("largest number:"+a);
+			System.out.println("largest number:" +a);
 		else
-			System.out.println("largest number:"+b);
+			System.out.println("largest number:" +b);
 
 	}
 
